@@ -1,0 +1,47 @@
+.li{
+    
+    margin-left: 330px;
+    color: white;
+}
+.font
+{
+    color: orange;
+}
+li{
+    color: white
+}
+.lig:hover{
+   background-color:purple;
+    padding:0;
+}
+.lif:hover{
+    background-color:green;
+     padding:0;
+ }
+ .lie:hover{
+    background-color:grey;
+     padding:0;
+ }
+ .lid:hover{
+    background-color:blue;
+     padding:0;
+ }
+ .lic:hover{
+    background-color: red;
+     padding:0;
+ }
+ .lib:hover{
+    background-color:orange;
+     padding:0;
+ }
+ .lif:hover{
+    background-color:green;
+     padding:0;
+ }
+ .bla:hover{
+    color: yellow;
+ }
+ .size
+ {
+     size: 3px;
+ }
